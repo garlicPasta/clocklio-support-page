@@ -21,7 +21,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-**Service Providers**
+### Service Providers
 
 We may employ third-party companies and individuals due to the following reasons:
 
@@ -32,7 +32,7 @@ We may employ third-party companies and individuals due to the following reasons
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-**Security**
+### Security
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
@@ -42,6 +42,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2021-04-14
 
-**Contact Us**
+### Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at clocklio.web.app.
